@@ -5,7 +5,7 @@ This is a simple console game called **"Rock Paper Scissors"**.
 
 
 ## Goals and solution
-This game has been implemented using **Javascript**
+This game has been implemented using **Javascript**.
 
 Rock-Paper-Scissors is a two-player game, in this case - you and the computer (being your opponent), where you will have the chance to choose one of the following three options before the computer selects his: **"rock"**, **"paper"**, or **"scissors".** The rules are as follows: 
 
