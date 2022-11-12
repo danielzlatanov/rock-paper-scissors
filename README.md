@@ -17,7 +17,7 @@ The **winner** is the 'player' whose choice beats the choice of his opponent. Sh
 
 <img width="368" alt="Screenshot 2022-09-26 at 23 02 24" src="https://user-images.githubusercontent.com/110429874/192369337-f555ede1-8951-4a72-89b0-48885ce9fa90.png">
 
-All these situations are handled by analyzing the different possible game choices with a series of checks.
+All these situations are handled by analyzing all of the different possible scenarios with a series of checks.
 
 Link to the source code -> [code.js](https://github.com/danielzlatanov/rock-paper-scissors/blob/main/rock-paper-scissors.js)
 ## Input and Output
