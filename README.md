@@ -46,6 +46,8 @@ Please note that if your input is different than the provided choices, the conso
 
 Try out this game by playing it directly in your web browser: (Click either the [hyperlink](https://replit.com/@danielzlatanov/rock-paper-scissors#rock-paper-scissors.js) or the image below to open it!)
 
+Make sure to click the `Run` button in Replit!
+
 [Link to the game](https://replit.com/@danielzlatanov/rock-paper-scissors#rock-paper-scissors.js)
 
 <a href="https://replit.com/@danielzlatanov/rock-paper-scissors#rock-paper-scissors.js">
